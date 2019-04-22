@@ -22,4 +22,6 @@ Libraries used :
 
 2)Glide
 
+Screen Can be rotated to landscape mode also.
+
 Simple MVC is used in this project
