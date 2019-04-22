@@ -1,6 +1,6 @@
-This application is used to fetch the user's details and its followers from github library.
+This application fetchs the user's details and its followers from github Api.
 
-Details of user shown:
+Inofrmation about user shown:
 
 1)Email
 
@@ -10,7 +10,7 @@ Details of user shown:
 
 4)Followers
 
-Details of followers:
+Information about followers:
 
 1)Avatar
 
